@@ -1,0 +1,141 @@
+body {
+
+	font-family: allstar4, tahoma, sans-serif;
+	background-repeat: no-repeat;
+	color: white;
+	font-size: 9px;
+}
+
+.enemyDiv
+{
+	position: absolute;
+	top: 0px;
+	left: -115px;
+	display: block;
+
+}
+
+.enemy
+{
+	position: absolute;
+	width: 200px;
+	top: -35px;
+	left: -40px;
+	opacity: .5;
+	text-shadow: -1px 0 #111111, 0 2px #111111, 2px 0 #111111, 0 -1px #111111;
+}
+
+
+#root
+{
+	position: absolute;
+	top: 255px;
+	left: 1240px;
+}
+
+.playerDiv
+{
+
+	background-color: black;
+	display: block;
+
+}
+
+#GAUNTLET
+{
+  width: 0px;
+  height: 0px;
+  overflow: hidden;
+}
+
+#SHOTGUN
+{
+  width: 0px;
+  height: 0px;
+  overflow: hidden;
+}
+
+#NAILGUN
+{
+
+  width: 0px;
+  height: 0px;
+  overflow: hidden;
+}
+
+
+#MACHINEGUN
+{
+	width: 0px;
+	height: 0px;
+	overflow: hidden;
+}
+
+#NAILGUN_GRADE1
+{
+	position: absolute;
+	top: 94px;
+	color: #4078d5;
+	opacity: .5;
+	text-shadow: -1px 0 #111111, 0 2px #111111, 2px 0 #111111, 0 -1px #111111;	
+}
+
+
+
+
+#MACHINEGUN_GRADE1
+{
+	position: absolute;
+	top: 0px;
+	
+	color: #eed859;
+	opacity: .5;
+	text-shadow: -1px 0 #111111, 0 2px #111111, 2px 0 #111111, 0 -1px #111111;	
+}
+
+
+#ROCKET_LAUNCHER
+{
+	position: absolute;
+	
+	color: #ad2f22;
+	opacity: .5;
+	top: 186px;
+	text-shadow: -1px 0 #111111, 0 2px #111111, 2px 0 #111111, 0 -1px #111111;	
+}
+
+
+#LIGHTNING_GUN
+{
+	position: absolute;
+	top: 232px;
+	color: #2ba9a5;
+	opacity: .5;
+	text-shadow: -1px 0 #111111, 0 2px #111111, 2px 0 #111111, 0 -1px #111111;	
+}
+
+#LAGBOLT {
+	position: absolute;
+	top: 140px;
+	color: #86952d;
+	opacity: .5;
+	text-shadow: -1px 0 #111111, 0 2px #111111, 2px 0 #111111, 0 -1px #111111;	
+}
+
+#RAILGUN {
+	position: absolute;
+	
+	top: 278px;
+	color: #1bb31e;
+	opacity: .5;text-shadow: -1px 0 #111111, 0 2px #111111, 2px 0 #111111, 0 -1px #111111;	
+}
+
+#SHOTGUN_GRADE1 {
+	position: absolute;
+	top: 47px;
+	color: #ffad43;
+	opacity: .5;
+	text-shadow: -1px 0 #111111, 0 2px #111111, 2px 0 #111111, 0 -1px #111111;	
+}
+
+
